@@ -1,2 +1,2 @@
 # mcsrv
-mindcraft docker container
+mindcraft docker container serie 10
