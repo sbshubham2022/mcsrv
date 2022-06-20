@@ -1,0 +1,2 @@
+# mcsrv
+mindcraft docker container
